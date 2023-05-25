@@ -1,7 +1,7 @@
 div{
     width: 500px;
     height: 500px;
-    border: ridge 5px aquamarine; 
+    border: ridge 1px aquamarine; 
     padding: 10px 20px 30px 50px;
     margin: 50px 50px;
     background-color:blue;
@@ -20,7 +20,7 @@ head{font-family: 'Courier New', Courier, monospace; }
 .welcome{ 
     height:100px; padding: 10px; margin:50px 100px; text-align: justify; color:black; font: bold; background-color:white;}
 
-.p1{border-radius: 50%; position: fixed; top: 10px; right: 20px;}
+.p1{border-radius: 50%; position: fixed; bottom: 10px; right: 20px;}
 .p2{border-radius : 20%; position: fixed; top :150px; right : 20px;}
 .p3{border-radius : 20%; position: fixed; top :250px; right : 20px;}
 .p4{border-radius : 20%; position: fixed; top :350px; right : 20px;}
